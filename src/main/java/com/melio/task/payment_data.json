@@ -1,0 +1,73 @@
+[
+  {
+    "id": 100,
+    "amount": 12.33,
+    "organizationCompanyName": "Stark Industries",
+    "vendorCompanyName": "SHIELD",
+    "sourceRoutingNumber": "123123123",
+    "sourceAccountNumber": "5567814",
+    "destinationRoutingNumber": "044000037",
+    "destinationAccountNumber": "7743615",
+    "transferType": "Bank",
+    "bank": "A"
+  },
+  {
+    "id": 123,
+    "amount": 13.37,
+    "organizationCompanyName": "Stark Industries",
+    "vendorCompanyName": "Tony Stark",
+    "sourceRoutingNumber": "011401533",
+    "sourceAccountNumber": "111122223333",
+    "destinationRoutingNumber": "021000021",
+    "destinationAccountNumber": "12345678",
+    "transferType": "Bank",
+    "bank": "A"
+  },
+  {
+    "id": 345,
+    "amount": 157.43,
+    "organizationCompanyName": "Pet Salon",
+    "vendorCompanyName": "Dog Shampoos",
+    "cardNumber": "123456******9999",
+    "destinationRoutingNumber": "044000037",
+    "destinationAccountNumber": "785412",
+    "transferType": "Card",
+    "CardNetwork": "AMEX"
+  },
+  {
+    "id": 231,
+    "amount": 53197.23,
+    "organizationCompanyName": "Cube's",
+    "vendorCompanyName": "Liqours inc",
+    "sourceRoutingNumber": "322271627",
+    "sourceAccountNumber": "7844461",
+    "destinationRoutingNumber": "021000021",
+    "destinationAccountNumber": "12312223",
+    "transferType": "Wire",
+    "bank": "B"
+  },
+  {
+    "id": 3415,
+    "amount": 1257.13,
+    "organizationCompanyName": "R's construction",
+    "vendorCompanyName": "cements and more",
+    "sourceRoutingNumber": "021000021",
+    "sourceAccountNumber": "4467814",
+    "destinationRoutingNumber": "044000037",
+    "destinationAccountNumber": "11332211",
+    "transferType": "Bank",
+    "bank": "B"
+  },
+  {
+    "id": 2311,
+    "amount": 55.2,
+    "organizationCompanyName": "Restaurant inc",
+    "vendorCompanyName": "wines",
+    "sourceRoutingNumber": "011401533",
+    "sourceAccountNumber": "7844461",
+    "destinationRoutingNumber": "021000021",
+    "destinationAccountNumber": "2231314",
+    "transferType": "Wire",
+    "bank": "A"
+  }
+]
